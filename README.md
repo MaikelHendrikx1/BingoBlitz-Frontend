@@ -1,5 +1,7 @@
 # BingoBlitz-Frontend
 
+## NOTE: This repository, along with all other repositories belonging to this project, have been merged into a single repository. This repository can be found here: https://github.com/MaikelHendrikx1/BingoBlitz
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
